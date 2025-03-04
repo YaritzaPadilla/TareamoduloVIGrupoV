@@ -15,5 +15,6 @@ public class Deportista extends Persona {
     @Override
     public String getInformacionPersonal() {
         return "Deporte: " + deporte;
-}
+
+    }
 }
