@@ -15,5 +15,6 @@ public class Doctor extends Persona {
     @Override
     public String getInformacionPersonal() {
         return "Especialidad: " + especialidad;
-}
+
+    }
 }
