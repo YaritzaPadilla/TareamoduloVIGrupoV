@@ -19,7 +19,8 @@ public class TareagrupalVIGrupoV {
             System.out.println(" Edad: " + persona.getEdad());
             System.out.println(persona.getInformacionPersonal()+" \n ");
     
-        
+       
+            
         }
         }
    }
